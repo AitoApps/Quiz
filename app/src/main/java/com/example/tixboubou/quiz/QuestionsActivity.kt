@@ -13,7 +13,7 @@ import com.google.firebase.database.FirebaseDatabase
 
 
 class QuestionsActivity : AppCompatActivity() {
-    val names: Array<String> = arrayOf("redoine", "mehdi", "hassan", "mohamed")
+    val names: Array<String> = arrayOf("redoine", "asghari", "hassan", "mohamed")
    val imageUrls = arrayOf<String>()
     var indexName: Int = 0
     override fun onCreate(savedInstanceState: Bundle?) {
